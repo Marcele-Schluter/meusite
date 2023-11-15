@@ -1,0 +1,46 @@
+body {
+    color: black;
+    background-color: lightpink;
+    font-style: italic;
+}
+
+p {
+    font-size: 2rem;
+ }
+
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+
+img {
+       width: 199px;
+       height: 194px;
+       border-radius: 50%;
+       border: 5px solid palevioletred
+    }
+
+.center {
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+h1{
+    color: white
+}
+
+.container{
+    padding: 0px 50px;
+}
+
+
